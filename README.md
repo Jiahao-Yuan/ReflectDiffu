@@ -1,4 +1,6 @@
-# Dataset for ReflectDiffu
+# ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework
+## Model ArchitectureReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework
+![Image of ReflectDiffu](asset/ReflectDiffu.png)
 ## Reference & Acknowledgements
 If you find our work useful, please cite our paper as follows:
 
